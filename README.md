@@ -13,7 +13,7 @@
 - Hands-on: Using AI to explain DevOps concepts & generate documentation
 
 ### 🛠 Mini-Challenge
-"TBD"
+""
 
 ---
 
