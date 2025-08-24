@@ -40,7 +40,7 @@
 - Running **LLMs locally** (Ollama, LM Studio, GPT4All)
 - Calling AI **via APIs (OpenAI, Mistral, Hugging Face, LM Studio API)**
 - Intro to **LangChain** for automating AI workflows
-- <a target="_blank" href=""? YT Link</a> for AI-Assisted DevOps
+- <a target="_blank" href=""> YT Link</a> for AI-Assisted DevOps
 
 ### 🛠 Hands-on
 - **Mini-Challenge:** "Call an AI API to auto-generate Kubernetes manifests"
