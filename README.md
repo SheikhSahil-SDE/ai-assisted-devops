@@ -1,7 +1,8 @@
 # AI-Assisted DevOps - 10-Day Course Syllabus
 
-<img width="960" alt="ASSISTED" src="https://github.com/user-attachments/assets/a9c603a6-5106-4a7b-9a09-5aa5de5f0407" />
+<a target="_blank" href="https://github.com/iam-veeramalla/ai-assisted-devops">Repository Link</a> for AI-Assisted DevOps
 
+<!-- <img width="960" alt="ASSISTED" src="https://github.com/user-attachments/assets/a9c603a6-5106-4a7b-9a09-5aa5de5f0407" /> -->
 
 ---
 
@@ -13,7 +14,8 @@
 - Hands-on: Using AI to explain DevOps concepts & generate documentation
 
 ### 🛠 Mini-Challenge
-""
+
+- Try the hands-on demonstration explained in the video.
 
 ---
 
