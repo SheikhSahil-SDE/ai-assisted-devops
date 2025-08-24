@@ -11,8 +11,8 @@
 - Why AI is a game-changer for DevOps
 - Overview of Generative AI and LLMs (without deep theory)
 - Popular AI tools for DevOps Engineers.
-- Hands-on: Using AI to explain DevOps concepts & generate documentation
-- <a target="_blank" href="https://youtu.be/ej3cJBMG_8s?si=T1SUgLoXwT5pWt2C"? YT Link</a> for AI-Assisted DevOps
+- Hands-on: Using AI to explain DevOps concepts & generate documentation <br>
+<a target="_blank" href="https://youtu.be/ej3cJBMG_8s?si=T1SUgLoXwT5pWt2C"? YT Link</a> for AI-Assisted DevOps
 
 ### 🛠 Mini-Challenge
 
