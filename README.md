@@ -1,19 +1,19 @@
 # AI-Assisted DevOps - 10-Day Course Syllabus
-
+<a target="_blank" href="https://www.youtube.com/playlist?list=PLdpzxOOAlwvJ_qWyuqhbHteY84O1qr72a">YT Playlist</a> for AI-Assisted DevOps<br>
 <a target="_blank" href="https://github.com/iam-veeramalla/ai-assisted-devops">Repository Link</a> for AI-Assisted DevOps
 
 <!-- <img width="960" alt="ASSISTED" src="https://github.com/user-attachments/assets/a9c603a6-5106-4a7b-9a09-5aa5de5f0407" /> -->
 
----
 
-## **Day 1: Introduction to AI for DevOps**
+---
+## **Day 1: Introduction to AI for DevOps** 
 ### 📌 Topics
 - Why AI is a game-changer for DevOps
 - Overview of Generative AI and LLMs (without deep theory)
 - Popular AI tools for DevOps Engineers.
 - Hands-on: Using AI to explain DevOps concepts & generate documentation <br>
-<a target="_blank" href="https://youtu.be/ej3cJBMG_8s?si=T1SUgLoXwT5pWt2C"? YT Link</a> for AI-Assisted DevOps
-
+- <a target="_blank" href="https://youtu.be/ej3cJBMG_8s?si=T1SUgLoXwT5pWt2C"> YT Link </a> for Day 1: Introduction to AI for DevOps
+  
 ### 🛠 Mini-Challenge
 
 - Try the hands-on demonstration explained in the video.
@@ -26,7 +26,7 @@
 - **Techniques:** Zero-shot, few-shot, n-shot, and Chain-of-Thought (CoT) prompting
 - Writing structured prompts for DevOps use cases
 - AI-generated regex, Bash scripts, Terraform, and CI/CD configurations
-- <a target="_blank" href=""? YT Link</a> for AI-Assisted DevOps
+- <a target="_blank" href="https://youtu.be/jTW4QPE4ARc?si=ILQlK8oCZQauO2AL"> YT Link</a> for Day 2: Prompt Engineering Masterclass
 
 ### 🛠 Hands-on
 - **Experimenting with LLM parameters** to optimize AI outputs
