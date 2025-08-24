@@ -12,6 +12,7 @@
 - Overview of Generative AI and LLMs (without deep theory)
 - Popular AI tools for DevOps Engineers.
 - Hands-on: Using AI to explain DevOps concepts & generate documentation
+- <a target="_blank" href="https://youtu.be/ej3cJBMG_8s?si=T1SUgLoXwT5pWt2C"? YT Link</a> for AI-Assisted DevOps
 
 ### 🛠 Mini-Challenge
 
@@ -25,6 +26,7 @@
 - **Techniques:** Zero-shot, few-shot, n-shot, and Chain-of-Thought (CoT) prompting
 - Writing structured prompts for DevOps use cases
 - AI-generated regex, Bash scripts, Terraform, and CI/CD configurations
+- <a target="_blank" href=""? YT Link</a> for AI-Assisted DevOps
 
 ### 🛠 Hands-on
 - **Experimenting with LLM parameters** to optimize AI outputs
@@ -38,6 +40,7 @@
 - Running **LLMs locally** (Ollama, LM Studio, GPT4All)
 - Calling AI **via APIs (OpenAI, Mistral, Hugging Face, LM Studio API)**
 - Intro to **LangChain** for automating AI workflows
+- <a target="_blank" href=""? YT Link</a> for AI-Assisted DevOps
 
 ### 🛠 Hands-on
 - **Mini-Challenge:** "Call an AI API to auto-generate Kubernetes manifests"
@@ -48,7 +51,8 @@
 ### 📌 Topics
 - Using AI to improve Bash/Python scripting
 - AI-assisted log analysis and troubleshooting
-
+- <a target="_blank" href=""? YT Link</a> for AI-Assisted DevOps
+  
 ### 🛠 Hands-on
 - **Mini-Challenge:** "Generate a log analysis script using AI & refine it for better accuracy"
 
@@ -58,7 +62,8 @@
 ### 📌 Topics
 - AI-powered monitoring with **Prometheus, Grafana, and New Relic**
 - AI for **log pattern recognition & anomaly detection**
-
+- <a target="_blank" href=""? YT Link</a> for AI-Assisted DevOps
+  
 ### 🛠 Hands-on
 - **Mini-Challenge:** "Use AI to analyze a set of logs and summarize root causes"
 
@@ -70,7 +75,8 @@
 - AI-powered **incident detection and auto-remediation**
 - Using AI for **predictive maintenance & anomaly detection**
 - **Tools:** Dynatrace, Moogsoft, IBM Watson AIOps
-
+- <a target="_blank" href=""? YT Link</a> for AI-Assisted DevOps
+  
 ### 🛠 Hands-on
 - **Live Demo:** Running **AIOps-based incident detection & root cause analysis**
 - **Mini-Challenge:** "Use AI to predict server failures based on logs"
@@ -81,6 +87,7 @@
 ### 📌 Topics
 - AI-powered automation in **Jenkins, GitHub Actions, GitLab CI/CD**
 - AI-assisted **YAML validation and error fixing**
+- <a target="_blank" href=""? YT Link</a> for AI-Assisted DevOps
 
 ### 🛠 Hands-on
 - **Mini-Challenge:** "Generate a GitHub Actions pipeline using AI and debug an error"
@@ -91,6 +98,7 @@
 ### 📌 Topics
 - **What are AI Agents?** How do they work?
 - AI-powered **self-healing infrastructure**
+- <a target="_blank" href=""? YT Link</a> for AI-Assisted DevOps
 
 ### 🛠 Hands-on
 - **Project:** Build a **simple AI agent** that monitors a deployment and suggests fixes
@@ -102,6 +110,7 @@
 - AI-assisted **vulnerability scanning** (Trivy, Snyk, Checkov)
 - AI-powered **cloud cost optimization (FinOps)**
 - AI-generated **compliance reports (CIS, NIST, PCI-DSS)**
+- <a target="_blank" href=""? YT Link</a> for AI-Assisted DevOps
 
 ### 🛠 Hands-on
 - **Mini-Challenge:** "Use AI to scan a container image for vulnerabilities"
@@ -114,6 +123,7 @@
 - AI trends in DevOps (AI-powered SRE, AIOps, FinOps)
 - **Final Capstone Project:** Implement an AI-assisted DevOps automation
 - **Peer Review:** Learners give feedback on each other's projects
+- <a target="_blank" href=""? YT Link</a> for AI-Assisted DevOps
 
 ---
 
